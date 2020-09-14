@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UITableViewController {
     var pictures = [String]()
     
     override func viewDidLoad() {
@@ -24,5 +24,8 @@ class ViewController: UIViewController {
             }
         }
     }
+    
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return pictures.count
+    }
 }
-
