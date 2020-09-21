@@ -21,4 +21,4 @@ To run this project:
 
 
 ## Credit
-This app was built using the Project 1 - ‘Storm Viewer’ section of the e-book 'Hacking with iOS: UIKit Edition'. Personal improvements were added where I found possibilities to reduce duplication or complexity.
+This app was built using the Project 1 - ‘Storm Viewer’ and Project 3 - ‘Social Media’ sections of the e-book 'Hacking with iOS: UIKit Edition'. Personal improvements were added where I found possibilities to reduce duplication or complexity.
